@@ -17,9 +17,9 @@ zip file and open tetris.html in your browser. Download it from
 the [Releases page](../../releases).
 
 
-## Screenshot
+## Screenshot (animated gif)
 
-![Screenshot of JS Tetris game](https://raw.githubusercontent.com/cztomczak/jstetris/master/screenshots/jstetris120.png)
+![Screenshot of JS Tetris game](https://raw.githubusercontent.com/cztomczak/jstetris/master/screenshots/Tetris_basic_game.gif)
 
 
 ## Can you beat it?
