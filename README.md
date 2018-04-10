@@ -19,7 +19,7 @@ the [Releases page](../../releases).
 
 ## Screenshot (animated gif)
 
-![Screenshot of JS Tetris game](https://raw.githubusercontent.com/cztomczak/jstetris/master/screenshots/Tetris_basic_game.gif)
+![Screenshot of JS Tetris game](https://raw.githubusercontent.com/cztomczak/jstetris/master/screenshots/Tetris_basic_game2.gif)
 
 
 ## Can you beat it?
