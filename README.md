@@ -1,7 +1,7 @@
 # JS Tetris
 
-JS Tetris is a browser-based clone of one of the greatest
-puzzle video games of all time created by Czarek Tomczak
+JS Tetris is a browser based clone of one of the greatest
+puzzle video games of all time, created by Czarek Tomczak
 (see my [Resume](https://drive.google.com/file/d/17xmoT5Z_zTHkVclqPzrs2aAV64Uiu7fh/view)). To play it,
 you only need to have javascript enabled in your browser,
 there are no plugins are required (no java, no flush). You
