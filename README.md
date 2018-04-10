@@ -25,7 +25,7 @@ the [Releases page](../../releases).
 
 ## Can you beat it?
 
-The game author's (Czarek) personal best is 332 lines - can you beat it?
+The game author's (Czarek) personal best is 332 lines, see screenshot below.
 
 ![Czarek's personal best 332 lines](https://raw.githubusercontent.com/cztomczak/jstetris/master/screenshots/czarek-pb-332-lines.png)
 
