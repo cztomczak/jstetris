@@ -3,10 +3,10 @@
 JS Tetris is a browser-based clone of one of the greatest
 puzzle video games of all time created by Czarek Tomczak
 (see my [Resume](https://drive.google.com/file/d/17xmoT5Z_zTHkVclqPzrs2aAV64Uiu7fh/view)). To play it,
-you only need to have javascript enabled in your browser
-- no plugins are required (no java, no flush). You are free
-to put Js Tetris on your web-site, modify the game. The
-rules are simple: move and rotate the blocks with the aim
+you only need to have javascript enabled in your browser,
+there are no plugins are required (no java, no flush). You
+are free to put Js Tetris on your web-site, modify the game.
+The rules are simple: move and rotate the blocks with the aim
 of creating a horizontal line of blocks without gaps. Use
 arrows and spacebar to navigate blocks.
 
