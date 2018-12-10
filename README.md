@@ -1,7 +1,7 @@
 # JS Tetris
 
 JS Tetris is a browser based clone of one of the greatest
-puzzle video games of all time. JS Tetris is open source project
+puzzle video games of all time. JS Tetris is an open source project
 founded by
 [Czarek Tomczak](https://drive.google.com/file/d/17xmoT5Z_zTHkVclqPzrs2aAV64Uiu7fh/view)
 in 2004. To play the game you only need to enable javascript
