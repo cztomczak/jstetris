@@ -6,7 +6,7 @@ founded by
 [Czarek Tomczak](https://drive.google.com/file/d/17xmoT5Z_zTHkVclqPzrs2aAV64Uiu7fh/view)
 in 2004. To play the game you only need to enable javascript
 in your browser, there are no plugins required (no java,
-no flush). You are free to put Js Tetris on your website
+no flush). An amazing tetris game based on js. You are free to put Js Tetris on your website
 and to modify the game. The rules are simple: move and rotate the
 blocks with the aim of creating a horizontal line of blocks
 without gaps. Use arrows and spacebar keys to navigate blocks.
